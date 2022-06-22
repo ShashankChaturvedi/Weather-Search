@@ -7,3 +7,6 @@
   
   
   -It also changes the background photo of the UI to give nice effect according to the name of the city searched.
+  
+  
+  -Images are taken from unsplash.com
